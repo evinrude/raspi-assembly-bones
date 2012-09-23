@@ -1,0 +1,6 @@
+This example involves the miniuart. Most of the code has been encapsulated into common.
+The idea is to build off of our common code to make doing stuff over serial alot less
+labor intensive.
+
+The example spits out the ABC's over serial @ 115200 8N1. A timer is involved so the rate can 
+be slowed down.
